@@ -17,7 +17,7 @@
                   <th>Marks</th> 
                </tr>
                <xsl:for-each select="class/student"> 
-                  <tr> 
+                  <tr bgcolor = "yellow">
                      <td> 
                     <!-- value-of processing instruction process the value of the element matching the XPath expression  --> 
                         <xsl:value-of select = "@rollno"/> 
