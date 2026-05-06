@@ -4,17 +4,17 @@
 
 <class>
     <student>
-        <name>Rahul</name>
+        <name>Ram</name>
         <marks>85</marks>
     </student>
 
     <student>
-        <name>Amit</name>
+        <name>Adi</name>
         <marks>60</marks>
     </student>
 
     <student>
-        <name>Riya</name>
+        <name>prapti</name>
         <marks>40</marks>
     </student>
 </class>
